@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/cogna-rematricula/:/",
-    "/content/cogna-rematriculae/configuration:/.helix/config.json",
+    "/content/cogna-rematricula/configuration:/.helix/config.json",
     "/content/cogna-rematricula/metadata:/metadata.json"
   ],
   "includes": [
