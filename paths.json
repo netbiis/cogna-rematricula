@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/cogna-rematricula/:/",
+    "/content/cogna-rematriculae/configuration:/.helix/config.json",
+    "/content/cogna-rematricula/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/cogna-rematricula/"
   ]
 }
